@@ -9,4 +9,5 @@ development with Python.
 4)Smooth gameplay with a retro aesthetic
 ## Cloning
 Run the command git clone https://github.com/yourusername/snake-game.git
+
 Happy gaming! 🐍
